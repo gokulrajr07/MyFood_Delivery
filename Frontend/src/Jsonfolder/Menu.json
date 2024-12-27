@@ -1,0 +1,72 @@
+[
+    {
+        "_id":1,
+        "menu":"Chicken Rice",
+        "menuimg":"https://i.ytimg.com/vi/KyxW9rnKPKQ/maxresdefault.jpg"
+    },
+    {
+        "_id":2,
+        "menu":"Mutton Rice",
+        "menuimg":"https://www.yummyfoodrecipes.com/resources/picture/org/Mughlai-Mutton.jpg"
+    },
+    {
+        "_id":3,
+        "menu":"Chicken Tandoori",
+        "menuimg":"https://onestophalal.com/cdn/shop/articles/air_fryer_chicken_tandoori-1694242200588_800x.jpg?v=1694242335"
+    },
+    {
+        "_id":4,
+        "menu":"Parotta",
+        "menuimg":"https://img-cdn.krishijagran.com/81875/malabar-paratha.jpg"
+    },
+    {
+        "_id":5,
+        "menu":"Fish Curry",
+        "menuimg":"https://vaya.in/recipes/wp-content/uploads/2018/04/Kerala-Fish-Curry.jpg"
+    },
+    {
+        "_id":6,
+        "menu":"Salad",
+        "menuimg":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9oZVThOmUpHoOjtrQuCfkgKDsQdHRX9NfwaiZDM5qhRfqh5CX"
+    },
+    {
+        "_id":7,
+        "menu":"Rolls",
+        "menuimg":"https://b.zmtcdn.com/data/pictures/2/19498822/41724ef4f1591c25a90cb7bb8c921b02_featured_v2.jpg?output-format=webp"
+    },
+    {
+        "_id":8,
+        "menu":"Deserts",
+        "menuimg":"https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/17473773-2e74-48cb-b05e-42ddf0e5c731.jpeg"
+    },
+    {
+        "_id":9,
+        "menu":"Sandwich",
+        "menuimg":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNw0acw90rA2LnvQmY2KaReNRLmlj9GhXQJfmkp7fJZdKNnUlf"
+    },
+    {
+        "_id":10,
+        "menu":"Cake",
+        "menuimg":"https://b.zmtcdn.com/data/pictures/chains/9/19598389/0870ec3842106147d3263c2d0856843e.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    },
+    {
+        "_id":11,
+        "menu":"Pure Veg",
+        "menuimg":"https://b.zmtcdn.com/data/pictures/chains/2/18390082/1a9cb6644b15b7e5841dda086583dfcd.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    },
+    {
+        "_id":12,
+        "menu":"Pasta",
+        "menuimg":"https://img.freepik.com/premium-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_1084068-160.jpg?w=740"
+    },
+    {
+        "_id":13,
+        "menu":"Noodles",
+        "menuimg":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEyJjn8m2JV09C9qDK09hf0mg-9Gm2K7q-qlWWjJPSvwHfmKYR"
+    },
+    {
+        "_id":14,
+        "menu":"Ice Cream",
+        "menuimg":"https://static.toiimg.com/thumb/msid-112315676,width-1280,height-720,imgsize-66530,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    }
+]

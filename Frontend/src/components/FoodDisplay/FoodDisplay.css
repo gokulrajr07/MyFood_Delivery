@@ -1,0 +1,24 @@
+.food-display {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    /* border: 2px solid red; */
+  }
+  
+  .food-display h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .food-dispaly-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+    padding: 0;
+    /* border: 2px solid black; */
+}
+  

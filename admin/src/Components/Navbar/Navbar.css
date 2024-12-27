@@ -1,0 +1,51 @@
+/* Basic Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .logo {
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+  }
+  
+  .profile {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar {
+      padding: 8px 16px;
+    }
+  
+    .logo {
+      height: 40px;
+    }
+  
+    .profile {
+      height: 35px;
+      width: 35px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .navbar {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .logo,
+    .profile {
+      margin: 5px 0;
+    }
+  }
+  

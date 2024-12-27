@@ -1,0 +1,66 @@
+.header
+{
+    height: 30vw;
+    /* border: 2px solid red; */
+    margin: 30px auto;
+    background: url('https://img.freepik.com/free-photo/crop-plate-with-salad_23-2147753678.jpg') no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+    border-radius: 20px;
+}
+.header-content
+{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5vw;
+    max-width: 50%;
+    bottom: 15%;
+    left: 6vw;
+    animation: fadeIn 3s;
+}
+.header-content h2
+{
+    font-weight: 400;
+    color: white;
+    opacity: 2px;
+    font-size: max(3vw); 
+}
+.header-content p{
+    color: white;
+    font-size: 1vw;
+    line-height: 1.5vw;
+    letter-spacing: 0.1vw;
+}
+.header-content Button
+{
+    border: none;
+    color: #747474;
+    font-weight: 500;
+    padding: 1vw 2.5vw;
+    background-color: white;
+    font-size: max(1vw,13px);
+    border-radius: 50px;
+    text-transform: capitalize;
+}
+@media (max-width:1050px)
+{
+   
+    .header-content{
+        max-width: 45%;
+    }
+}
+@media (max-width:750px)
+{
+    .header-content{
+        max-width: 65%;
+    }
+    .header-content p{
+        display: none
+    }
+    .header-content Button{
+        padding: 2vw 4vw;
+    }
+}
