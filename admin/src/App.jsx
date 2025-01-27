@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
   
 const App = () => {
-  let url="http://localhost:4000"
+  let url="https://myfood-delivery-backend.onrender.com"
   return (
     <div>
       <ToastContainer/>
